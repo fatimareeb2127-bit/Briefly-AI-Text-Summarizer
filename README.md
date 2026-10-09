@@ -8,10 +8,10 @@ Briefly AI is a responsive and animated Flask-based web application designed to 
 ![Briefly AI Home Page](static/home.png)
 
 ### 2. Text Summarizer
-![Briefly AI Text Summarizer](static/summarizer.png)
+![Briefly AI Text Summarizer](static/summarize.png)
 
-### 3. Image Summarizer
-![Briefly AI Image Summarizer](static/summarizer.png)
+### 3. Features of Summarizer
+![Briefly AI Features of Summarizer](static/features.png)
 
 ## Features
 
